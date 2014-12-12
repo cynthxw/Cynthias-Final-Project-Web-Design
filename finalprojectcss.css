@@ -5,6 +5,11 @@ background-size: 100%;
 background-image: url("oceanbackground2.jpg");
 }
 
+iframe {
+margin-left: auto;
+margin-right: auto;
+}
+
 #sidebox {
 position: fixed;
 vertical-align: top;
