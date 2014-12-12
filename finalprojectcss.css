@@ -4,12 +4,13 @@ color: powderblue;
 background-size: 100%;
 background-image: url("oceanbackground2.jpg");
 }
-
 iframe {
 margin-left: auto;
 margin-right: auto;
+margin-top: 15px;
+margin-bottom: 15px;
+display: block;
 }
-
 #sidebox {
 position: fixed;
 vertical-align: top;
