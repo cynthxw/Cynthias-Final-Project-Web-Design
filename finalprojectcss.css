@@ -9,6 +9,7 @@ background-image: url("oceanbackground2.jpg");
 position: fixed;
 vertical-align: top;
 opacity: 0.75;
+min-width: 230px;
 background-color: #347391;
 border: 2px solid black;
 border-radius: 7px;
