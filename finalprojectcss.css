@@ -1,0 +1,76 @@
+body {
+font-family: 'PT Sans Narrow', sans-serif;
+color: powderblue;
+background-size: 100%;
+background-image: url("oceanbackground2.jpg");
+}
+
+#sidebox {
+position: fixed;
+opacity: 0.75;
+background-color: gray;
+border: 2px solid black;
+padding: 10px;
+}
+
+.bigheading {
+margin-top: 175px;
+text-align: center;
+color: #1A345E;
+font-size: 300%;
+}
+
+.bigheading2 {
+margin-top: 175px;
+text-align: center;
+color: powderblue;
+font-size: 300%;
+}
+
+p {
+text-indent: 50px;
+font-family: 'PT Sans Narrow', sans-serif;
+color: powderblue;
+}
+
+.navigation {
+position: fixed;
+}
+
+.fixedbanner {
+position: fixed;
+}
+
+.imageMenu {
+text-align: justify;
+padding-left: 325px;
+padding-right: 325px;
+margin-top: 50px;
+line-height: 0;
+}
+
+.imageMenu a {
+display: inline-block;
+line-height: 16px;
+vertical-align: top;
+position: relative;
+padding: 4px;
+text-decoration: none;
+text-align: center;
+font-size: 150%;
+color: powderblue
+}
+
+.imageMenu img {
+vertical-align: top;
+width: 175px;
+height: 175px;
+}
+
+.imageMenu:after {
+content: '';
+display: inline-block;
+width: 100%;
+vertical-align: top;
+}
+
