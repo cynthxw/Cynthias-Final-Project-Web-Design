@@ -5,9 +5,6 @@ background-size: 100%;
 background-image: url("oceanbackground2.jpg");
 }
 
-#transparent {
-opacity: 0.0;
-}
 
 #sidebox {
 position: fixed;
