@@ -5,12 +5,33 @@ background-size: 100%;
 background-image: url("oceanbackground2.jpg");
 }
 
+#transparent {
+opacity: 0.0;
+}
+
 #sidebox {
 position: fixed;
+vertical-align: top;
 opacity: 0.75;
-background-color: gray;
+background-color: #101457;
 border: 2px solid black;
+border-radius: 7px;
 padding: 10px;
+}
+
+a:link {
+color: powderblue;
+}
+
+a:visited {
+color:grey;
+}
+
+#content {
+margin-left: auto;
+margin-right: auto;
+max-width: 800px;
+
 }
 
 .bigheading {
